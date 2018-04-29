@@ -1,0 +1,149 @@
+body{
+	background-color: #333;
+	color: #fff;
+}
+.navbar{
+	border-bottom:#008ed6 solid 3px;
+	opacity: 0.8;
+	margin-bottom: 0px;
+}
+li a
+{
+	text-decoration:none;
+	color: white;
+}
+li a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+#home-section
+{
+	background-image: url("so-back.jpg");
+	background:cover;
+	width:100%;
+	height:700px;
+	background-color: rgba(0,0,0,0.7);
+
+}
+#home-head
+{
+	padding:30px;
+	padding-top: 100px;
+}
+.fa
+{
+	font-size: 25px;
+	background-color: white;
+	color:#337ab7;
+	padding: 3px;
+	border-radius: 10px; 
+
+}
+.container p
+{
+	font-size: 18px;
+	width: 90%;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
+ .card
+{
+	margin-top: 120px;
+}
+.card h3
+{
+	text-align:center;
+	margin-bottom: 10px;
+}
+
+.card h4
+{
+	text-align:center;
+	margin-bottom: 20px;
+}
+#home-section .dark-overlay
+{
+	height: 700px;
+	background-color: rgba(0,0,0,0.6);
+}
+#home-section .container
+{
+opacity: 0.9;
+}
+#explore-content
+{
+	background-color: white;
+}
+#explore-content img
+{
+	height: 400px;
+	width: 500px;
+	padding: 30px;
+	padding-left: 0px;
+}
+#explore-content p
+{
+color:grey;
+font-size: 15px;
+}
+#explore-content .fa
+{
+	color:white;
+	background-color: grey;
+}
+#create-content img
+{
+	height: 400px;
+	width: 500px;
+	padding: 30px;
+	padding-left: 0px;
+}
+#create-content p
+{
+color:white;
+font-size: 15px;
+}
+#explore-head h3
+{
+	margin-left: 100px;
+	padding-top: 40px;
+}
+#explore-head p
+{
+	margin-left: 100px;
+}
+#create-content
+{
+	height: 420px;
+}
+#explore-content
+{
+	height: 420px;
+}
+.navbar
+{
+	position: fixed;
+}
+#share-content img
+{
+	height: 400px;
+	width: 500px;
+	padding: 30px;
+	padding-left: 0px;
+}
+#share-content
+{
+	height: 420px;
+
+}
+#share-content p
+{
+color:grey;
+font-size: 15px;
+}
+#share-content .fa
+{
+	color:white;
+	background-color: grey;
+}
